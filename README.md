@@ -39,11 +39,17 @@ Identified the best-performing model for deployment.
 Suggested targeted retention strategies based on insights from the data and clusters.
 
 🔑 Key Results
+
 Best Performing Model
+
 Model: [Gradient Boost]
+
 Accuracy: [98.4]%
+
 Precision: [96]%
+
 Recall: [97]%
+
 F1-Score: [97]%
 
 Key Insights:
